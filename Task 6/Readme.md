@@ -1,1 +1,1 @@
-
+In this, a xml file is loaded as a base of the classifier. DetectMultiScale function has been initialised with scale factor 1.1 and minimum neighbours to be considered, to 3. After detecting face, it's coordinates is then stored in a vector, and with the help of that coordinates, a rectangle of blue color is drawn as a mark of detection.
